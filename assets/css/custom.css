@@ -26,3 +26,8 @@
 .list li a {
   font-size: 1.3rem;
 }
+
+.widget-banner {
+  padding-top: 0;
+  border-bottom: none;
+}
